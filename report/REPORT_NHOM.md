@@ -132,5 +132,5 @@ Tôi sẽ thêm overlap theo heading hoặc ghép các section ngắn liền k�
 | Lựa chọn tài liệu | 10 / 10 |
 | Thiết kế chiến lược | 14 / 15 |
 | Chất lượng truy xuất | 9 / 10 |
-| Thuyết trình | 5 / 5 |
-| **Tổng phần nhóm** | **38 / 40** |
+| Thuyết trình |  / 5 |
+| **Tổng phần nhóm** | ** / 40** |

@@ -112,8 +112,8 @@ Tôi dùng corpus `data/chinh-sach-shopee/`, script `bench.py`, embedding `Lexic
 | Tiêu chí | Điểm tự đánh giá |
 |----------|-------------------|
 | Khởi động | 5 / 5 |
-| Hướng tiếp cận của tôi | 10 / 10 |
+| Hướng tiếp cận của tôi | 8 / 10 |
 | Hoàn thiện code | 30 / 30 |
 | Dự đoán độ tương tự | 4 / 5 |
 | Kết quả truy xuất của tôi | 9 / 10 |
-| **Tổng phần cá nhân** | **58 / 60** |
+| **Tổng phần cá nhân** | **56 / 60** |
