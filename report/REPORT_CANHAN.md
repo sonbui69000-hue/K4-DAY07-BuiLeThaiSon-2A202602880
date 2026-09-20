@@ -1,7 +1,7 @@
 # Báo Cáo Cá Nhân — Lab 7: Embedding & Vector Store
 
 **Họ tên:** Bui Le Thai Son - 02880
-**Nhóm:** Làm cá nhân  
+**Nhóm:** G91
 **Ngày:** 2026-09-19
 
 ## 1. Khởi động (Warm-up) — Cá nhân

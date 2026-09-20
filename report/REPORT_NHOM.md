@@ -1,7 +1,7 @@
 # Báo Cáo Nhóm — Lab 7: Embedding & Vector Store
 
-**Nhóm:** Làm cá nhân
-**Thành viên:** Bui Le Thai Son - 02880  
+**Nhóm:** G91
+**Thành viên:** Bui Le Thai Son, Do Hoang Quan   
 **Ngày:** 2026-09-19
 
 ## 1. Lựa chọn tài liệu
@@ -58,8 +58,6 @@ Kết quả từ `python bench.py` trên 3 tài liệu mẫu:
 | `quy-trinh-tra-hang-hoan-tien.md` | Heading | 6 | 225.7 | Rõ mục, nhưng có thể tách câu hỏi khỏi mốc thời gian |
 
 ### Chiến lược của từng thành viên
-
-Vì làm cá nhân, tôi tự chạy ba chiến lược để so sánh:
 
 **Chiến lược 1 — FixedSizeChunker**
 - Dùng `chunk_size=500`, `overlap=50`.
